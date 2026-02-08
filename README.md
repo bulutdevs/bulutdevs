@@ -9,6 +9,8 @@
 
 - i also work with Java a bit on the side, coding mc plugins. **Cloudarella**
 
+- i offer freelance services on Fiverr.
+
 - based on my background and interests, these are the languages i know, ordered from strongest to weakest. **JavaScript, Python, HTML, Java**
 
 <h3 align="left">Connect with me:</h3>
