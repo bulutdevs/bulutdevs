@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/bulutdevs" target="blank"><img src="https://img.shields.io/twitter/follow/bulutdevs?logo=twitter&style=for-the-badge" alt="bulutdevs" /></a> </p>
 
+<p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=bulutdevs&theme=dark&hide_border=true" alt="bulutdevs" /></p>
+
 - i’m currently working on the startup I founded. [CRIAI.art](www.CRIAI.art)
 
 - i also work with Java a bit on the side, coding mc plugins. **Cloudarella**
@@ -26,4 +28,4 @@
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/bulutmuf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bulutmuf" /></a></p><br><br> -->
 
-<p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=bulutdevs&theme=dark&hide_border=true" alt="bulutdevs" /></p>
+
