@@ -1,5 +1,5 @@
-<h1 align="center">i'm Bulut.</h1>
-<h3 align="center">backend-focused developer working on systems and infrastructure.</h3>
+<h1 align="left">i'm Bulut.</h1>
+<h3 align="left">backend-focused developer working on systems and infrastructure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutdevs&label=Profile%20views&color=0e75b6&style=flat" alt="bulutdevs" /> </p>
 
