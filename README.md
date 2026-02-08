@@ -23,5 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=js,nodejs,nginx,mongodb,aws,express,googlecloud,git,tailwind" alt="skills" />
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/bulutmuf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bulutmuf" /></a></p><br><br>
+<!-- <h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/bulutmuf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bulutmuf" /></a></p><br><br> -->
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bulutdevs&" alt="bulutdevs" /></p>
