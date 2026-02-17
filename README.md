@@ -2,7 +2,6 @@
 <h3 align="left">backend-focused developer working on systems and infrastructure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutdevs&label=Profile%20views&color=0e75b6&style=flat" alt="bulutdevs" /> </p>
-<p align="left"> <a href="https://twitter.com/bulutdevs" target="blank"><img src="https://img.shields.io/twitter/follow/bulutdevs?logo=twitter&style=for-the-badge" alt="bulutdevs" /></a> </p>
 
 
 - i’m currently working on the startup I founded. [CRIAI.art](www.CRIAI.art)
