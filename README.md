@@ -1,7 +1,7 @@
 <h1 align="left">i'm Bulut.</h1>
 <h3 align="left">backend-focused developer working on systems and infrastructure.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutdevs&label=Profile%20views&color=0e75b6&style=flat" alt="bulutdevs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutmuf&label=Profile%20views&color=0e75b6&style=flat" alt="bulutmuf" /> </p>
 
 
 - i’m currently working on the startup I founded. [CRIAI.art](www.CRIAI.art)
@@ -25,4 +25,3 @@
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/bulutmuf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bulutmuf" /></a></p><br><br> -->
 
-<p><a><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=bulutmuf&theme=dark&hide_border=true" alt="bulutdevs" /></a></p>
