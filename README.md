@@ -6,18 +6,17 @@
 
 - i’m currently working on the startup I founded. [CRIAI.art](www.CRIAI.art)
 
-- i also work with Java a bit on the side, coding mc plugins. **Cloudarella**
-
 - i offer freelance services on Fiverr.
 
 - based on my background and interests, these are the languages i know, ordered from strongest to weakest. **JavaScript, Python, HTML, Java**
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bulutdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bulutdevs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bulutmuftuoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bulutmuftuoglu" height="30" width="40" /></a>
 <a href="https://instagram.com/bulutmuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bulutdevs" height="30" width="40" /></a>
 </p>
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=js,nodejs,nginx,mongodb,aws,express,googlecloud,git,tailwind" alt="skills" />
