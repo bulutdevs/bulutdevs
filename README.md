@@ -1,26 +1,30 @@
-<h1 align="left">i'm Bulut.</h1>
-<h3 align="left">backend-focused developer working on systems and infrastructure.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutmuf&label=Profile%20views&color=0e75b6&style=flat" alt="bulutmuf" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+I'm+Bulut+M%C3%BCft%C3%BCo%C4%9Fu+%F0%9F%91%8B;Founder+of+CRIAI.art;Building+the+future+of+Generative+AI" alt="Typing SVG" />
 
+[![CRIAI](https://img.shields.io/badge/CRIAI.art-0E75B6?style=for-the-badge)](https://www.criai.art) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bulut-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bulutmuftuoglu) [![X](https://img.shields.io/badge/@bulutmuf-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bulutmuf) ![Location](https://img.shields.io/badge/Istanbul-Turkey-ED2939?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-- i’m currently working on the startup I founded. [CRIAI.art](www.CRIAI.art)
+*Backend developer who cares more about how products feel than how they scale.*
 
-- i offer freelance services on Fiverr.
+</div>
 
-- based on my background and interests, these are the languages i know, ordered from strongest to weakest. **JavaScript, Python, HTML, Java**
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bulutdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bulutdevs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bulutmuftuoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bulutmuftuoglu" height="30" width="40" /></a>
-<a href="https://instagram.com/bulutmuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bulutdevs" height="30" width="40" /></a>
-</p>
--->
+### 🦞 about me
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=js,nodejs,nginx,mongodb,aws,express,googlecloud,git,tailwind" alt="skills" />
+Backend engineer. Systems architect. Open-source contributor. 
 
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/bulutmuf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bulutmuf" /></a></p><br><br> -->
+Currently building CRIAI, a dedicated platform for high-accessibility generative AI. Focused on performance-critical systems, infrastructure scalability, and clean architecture.
 
+- CRIAI — making generative AI accessible for everyone
+- OpenClaw — performance-focused contributor to the core engine (360k+ stars)
+- TUA Awarded — "Most Innovative Solution" by the Turkish Space Agency for orbital mechanics engines
+- Security and efficiency-first mindset in every line of code
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bulutmuf&theme=react-dark&area=true&hide_border=true&color=0E75B6&bg_color=0D1117&point=0E75B6" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+<sub>building systems that work · products that matter · optimization-driven</sub>
+</div>
