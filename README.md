@@ -14,11 +14,18 @@ Backend engineer. Systems architect. Open-source contributor.
 
 Currently building CRIAI, a dedicated platform for high-accessibility generative AI. Focused on performance-critical systems, infrastructure scalability, and clean architecture.
 
-- CRIAI — making generative AI accessible for everyone
-- OpenClaw — performance-focused contributor to the core engine (360k+ stars)
-- TUA Awarded — "Most Innovative Solution" by the Turkish Space Agency for orbital mechanics engines
-- Security and efficiency-first mindset in every line of code
+### Ventures & Leadership
 
+* **[CRIAI](https://criai.art)** — Founder. Making generative AI accessible for everyone.
+
+### Engineering & Architecture
+
+* **[Polly](https://github.com/bulutmuf/polly)** — Your hybrid AI companion. Lightning-fast and deeply integrated.
+* **[bplane-small](https://github.com/bulutmuf/bplane-small)** — Military aircraft detection and tracking model utilizing YOLOv11 and BotSORT.
+
+### Open Source Contributions
+
+* **[OpenClaw](https://github.com/openclaw/openclaw)** (360k+ stars) — Performance-focused contributor to the core engine.
 <br/>
 
 <div align="center">
