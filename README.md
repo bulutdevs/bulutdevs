@@ -20,12 +20,12 @@ Currently building CRIAI, a dedicated platform for high-accessibility generative
 
 ### Engineering & Architecture
 
-* **[​​🦜 Polly](https://github.com/bulutmuf/polly)** — Your hybrid AI companion. Lightning-fast and deeply integrated.
+* **​​🦜 [Polly](https://github.com/bulutmuf/polly)** — Your hybrid AI companion. Lightning-fast and deeply integrated.
 * **[bplane-small](https://github.com/bulutmuf/bplane-small)** — Military aircraft detection and tracking model utilizing YOLOv11 and BotSORT.
 
 ### Open Source Contributions
 
-* **[🦞 OpenClaw](https://github.com/openclaw/openclaw)** (360k+ stars) — Performance-focused contributor to the core engine.
+* **🦞 [OpenClaw](https://github.com/openclaw/openclaw)** (360k+ stars) — Performance-focused contributor to the core engine.
 <br/>
 
 <div align="center">
