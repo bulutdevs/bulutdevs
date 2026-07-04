@@ -21,6 +21,7 @@ Currently building CRIAI, a dedicated platform for high-accessibility generative
 ### Engineering & Architecture
 
 * **[Polly](https://github.com/bulutmuf/polly)** — Your hybrid AI companion. Lightning-fast and deeply integrated.
+* **[opencode-failover](https://github.com/bulutmuf/opencode-failover)** — OpenCode plugin for automatic API-key failover and rotation across multiple provider keys.
 * **[bplane-small](https://github.com/bulutmuf/bplane-small)** — Military aircraft detection and tracking model utilizing YOLOv11 and BotSORT.
 
 ### Open Source Contributions
